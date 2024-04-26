@@ -20,6 +20,7 @@ const Signup = () => {
           w={['full', '96']}
           m={'auto'}
           my={'16'}
+          mt={'0'}
         >
           <Heading>VIDEO HUB</Heading>
           <Avatar alignSelf={'center'} boxSize={'32'} />
